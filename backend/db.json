@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Camisa Son Goku",
+      "price": 49.9
+    },
+    {
+      "id": 2,
+      "name": "Notebook Capsule Coorporation",
+      "price": 3490.9
+    },
+    {
+      "id": 3,
+      "name": "Caneta Boo",
+      "price": 19.9
+    }
+  ]
+}
